@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog Adoption Site</title>
+    <link rel="stylesheet" href="index.css"> 
+</head>
+<body>
+    <header>
+        <h1>Adopt-a-Pal</h1>
+        <nav>
+            <ul>
+                <li><a href="#" aria-label="Home">Home</a></li>
+                <li><a href="#" aria-label="Sign up">Sign up</a></li>
+                <li><a href="#" aria-label="Log in">Log in</a></li>
+                <li><a href="#" aria-label="About us">About Us</a></li>
+                <li><a href="#" aria-label="Campaigns">Campaigns</a></li>
+                <li><a href="#" aria-label="Contact us">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <label for="search-input">Search by Breed:</label>
+            <input type="text" id="search-input" placeholder="Enter breed name">
+            <button id="search-button">Search</button>
+            <button id="clear-button">Clear</button>
+        </section>
+ 
+        <h2>Available Dogs</h2>
+        <section id="dog-list">
+         <!-- Dog items will be populated here dynamically -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Adopt-a-Pal. All rights reserved.</p>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>

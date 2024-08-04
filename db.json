@@ -1,0 +1,76 @@
+{
+    "dogs": [
+    {
+    "name": "Santon",
+    "sex": "Male",
+    "breed": "Labrador Retriever",
+    "age": 3,
+    "size": "Large",
+    "description": "Santon is a friendly and outgoing Labrador Retriever who loves to play and be around people. He is energetic and always eager to learn new things. Santon enjoys swimming, fetching, and going on long walks with his human companions.",
+    "image": "https://cdn.pixabay.com/photo/2022/02/09/20/52/labrador-retriever-7004193_640.jpg"
+    },
+    {
+    "name": "Roscoe",
+    "sex": "Male",
+    "breed": "Bulldog",
+    "age": 5,
+    "size": "Medium",
+    "description": "Roscoe is a calm and courageous Bulldog who enjoys lounging and being a loyal companion. He is known for his wrinkly face and stocky build. Roscoe is patient with children and loves to cuddle up next to his favorite humans on the couch.",
+    "image": "https://cdn.pixabay.com/photo/2020/07/20/06/42/english-bulldog-5422018_1280.jpg"
+    },
+    {
+    "name": "Kira",
+    "sex": "Female",
+    "breed": "Poodle",
+    "age": 4,
+    "size": "Medium",
+    "description": "Kira is an intelligent and active Poodle who loves to learn new tricks and play fetch. She has a curly, hypoallergenic coat that requires regular grooming. Kira is a quick learner and enjoys participating in obedience training and agility courses.",
+    "image": "https://static3.depositphotos.com/1007066/221/i/450/depositphotos_2218260-stock-photo-poodle-standing-in-the-garden.jpg"
+    },
+    {
+    "name": "Denzel",
+    "sex": "Male",
+    "breed": "Golden Retriever",
+    "age": 4,
+    "size": "Large",
+    "description": "Denzel is an affectionate and gentle Golden Retriever who is great with kids and loves outdoor activities. He has a beautiful golden coat and a friendly, outgoing personality. Denzel enjoys swimming, hiking, and playing fetch in the park.",
+    "image": "https://media.istockphoto.com/id/506756303/photo/golden-retriever.jpg?s=612x612&w=0&k=20&c=lSlI8QTutSk6qi5oyzBpDSQHJapG_qZoQUjhQpEoWUQ="
+    },
+    {
+    "name": "Loki",
+    "sex": "Male",
+    "breed": "Beagle",
+    "age": 6,
+    "size": "Small",
+    "description": "Loki is a curious and friendly Beagle who enjoys exploring and being part of a pack. He has a distinctive tri-color coat and a keen sense of smell. Loki is known for his playful nature and loves to go on scent-tracking adventures with his human companions.",
+    "image": "https://static6.depositphotos.com/1004199/660/i/450/depositphotos_6603470-stock-photo-beagle-puppy-on-grass.jpg"
+    },
+    {
+    "name": "Habena",
+    "breed": "Dachshund",
+    "sex": "Female",
+    "age": 3,
+    "size": "Small",
+    "description": "Habena is a playful and brave Dachshund who has a big personality in a small body. She is known for her long, low-set body and short legs. Habena is loyal and affectionate towards her family and enjoys playing with toys and going for walks around the neighborhood.",
+    "image": "https://st.depositphotos.com/1146155/1920/i/450/depositphotos_19209111-stock-photo-portrait-of-standard-smooth-haired.jpg"
+    },
+    {
+    "name": "Dosey",
+    "breed": "Boxer",
+    "sex": "Male",
+    "age": 4,
+    "size": "Large",
+    "description": "Dosey is an energetic and playful Boxer who loves to be active and make new friends. He has a muscular build and a friendly, outgoing personality. Dosey enjoys playing fetch, going on jogs, and engaging in playful wrestling matches with his human companions.",
+    "image": "https://cdn.pixabay.com/photo/2018/05/14/11/37/boxer-3399598_1280.jpg"
+    },
+    {
+    "name": "Bella",
+    "breed": "Poodle",
+    "sex": "Female",
+    "age": 2,
+    "size": "Medium",
+    "description": "Bella is a smart and energetic Poodle who loves to learn new tricks and play interactive games. She has a curly, hypoallergenic coat that requires regular grooming. Bella is known for her affectionate nature and loves to cuddle up with her human companions after a day of playtime and training.",
+    "image": "https://cdn.pixabay.com/photo/2019/02/06/15/18/puppy-3979350_640.jpg"
+    }
+    ]
+    }

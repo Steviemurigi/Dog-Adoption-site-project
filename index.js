@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let allDogs = []; // Array to store all dog data
 
 // Fetch dog data from server
-fetch("http://localhost:3000/dogs")
+fetch("https://json-server-vercel-h7ro.vercel.app")
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok ' + response.statusText);

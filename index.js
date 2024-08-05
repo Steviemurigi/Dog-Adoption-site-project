@@ -14,7 +14,6 @@ fetch("https://json-server-vercel-h7ro.vercel.app/dogs")
         return response.json();
     })
     .then(data => {
-        console.log(data); // Log the data to see its structure
         allDogs = data; // Assign the array directly to allDogs
         displayDogs(allDogs); // Call the display function
     })
@@ -108,7 +107,7 @@ submitButton.addEventListener("click", () => {
     const email = dogItem.querySelector(`#email-${dog.id}`).value;
 
     if (name && phone && email) {
-        // Here you can handle the submission, e.g., send data to your server
+        // Here you can handle the submission, e.g., send data to the server
         alert(`Thank you, ${name}! Your adoption request has been submitted.`);
         // Optionally reset the form
         dogItem.querySelector(".adopt-form").reset();
